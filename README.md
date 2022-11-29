@@ -1,2 +1,2 @@
 # InstgramClone
- this is instagram clone android app 
+ this is instagram clone mobile app 
